@@ -1,0 +1,22 @@
+[
+    {
+      "role": "Data Structures TA",
+      "organisation": "Tufts University",
+      "startDate": "September 2024",
+      "endDate": "Present",
+      "experiences": ["Held regular office hours to support students with homework assignments and course concepts", 
+                      "Evaluated and graded student submissions, assessing code functionality, style, and organization", 
+                      "Provided constructive feedback to students, facilitating their understanding and application of data structures principles"],
+      "imageSrc": "history/tufts_transparent.png"
+    },
+    {
+      "role": "Software Developer",
+      "organisation": "Tufts JumboCode",
+      "startDate": "October 2023",
+      "endDate": "Present",
+      "experiences": ["Contributed to a full-stack inventory website for a local Somerville theater with 10 other developers", 
+                     "Worked on GET and POST API handlers in TypeScript", "Created and fixed several complex React components and styled them with Tailwind CSS", 
+                    "Designed a page to allow the user to take a picture of an item and post the product's name, description, filters, and custom image carousel"],
+      "imageSrc": "history/jumbocode.png"
+    }
+  ]

@@ -1,0 +1,34 @@
+[
+    {
+      "title": "College Break Matcher",
+      "imageSrc": "projects/breakmatcher.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "TypeScript", "Next", "Node", "Python", "Django", "Flask", "BeautifulSoup"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/jpizzzel/academic-calendar"
+    },
+    {
+      "title": "Theatre@First",
+      "imageSrc": "projects/logo.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "TypeScript", "Next.js", "TailwindCSS", "DrizzleORM"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/pmorganelli/gerp"
+    },
+    {
+      "title": "gerp",
+      "imageSrc": "projects/portfolio.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["C++", "Data Structures"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/JumboCode/theatre-at-first"
+    },
+    {
+      "title": "CalcYouLater",
+      "imageSrc": "projects/rpn.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["C++", "Data Structures"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/JumboCode/theatre-at-first"
+    }
+  ]
