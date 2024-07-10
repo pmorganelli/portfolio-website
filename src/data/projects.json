@@ -2,7 +2,7 @@
     {
       "title": "College Break Matcher",
       "imageSrc": "projects/breakmatcher.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Select two colleges. See their overlapping breaks. Currently in progress!",
       "skills": ["React", "TypeScript", "Next", "Node", "Python", "Django", "Flask", "BeautifulSoup"],
       "demo": "https://www.example.com",
       "source": "https://github.com/jpizzzel/academic-calendar"
@@ -10,7 +10,7 @@
     {
       "title": "Theatre@First",
       "imageSrc": "projects/logo.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Inventory application for a local Somerville theater. Contributed alongside a team of 10 developers.",
       "skills": ["React", "TypeScript", "Next.js", "TailwindCSS", "DrizzleORM"],
       "demo": "https://www.example.com",
       "source": "https://github.com/pmorganelli/gerp"
@@ -18,7 +18,7 @@
     {
       "title": "gerp",
       "imageSrc": "projects/portfolio.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Replicated the Unix “grep” program using C++, Hash Tables, and Vectors. Made with a partner for a Data Structures class. Source and demo unavailable.",
       "skills": ["C++", "Data Structures"],
       "demo": "https://www.example.com",
       "source": "https://github.com/JumboCode/theatre-at-first"
@@ -26,9 +26,9 @@
     {
       "title": "CalcYouLater",
       "imageSrc": "projects/rpn.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "A postfix notation calculator that can handle complex arithmetic and string parsing. Source and demo unavailable.",
       "skills": ["C++", "Data Structures"],
       "demo": "https://www.example.com",
-      "source": "https://github.com/JumboCode/theatre-at-first"
+      "source": "https://google.com"
     }
   ]
